@@ -49,76 +49,76 @@ SoarBot03 wins $155 with Two Pair, Tens and Nines
 </pre>
 
 <h4>Soar Log</h4>
-<pre>
----
-NEW GAME 536349 @ Tue Nov 19 07:37:43 EST 2002
----
----
-NEW STAGE preflop (536349) @ Tue Nov 19 07:37:43 EST 2002
----
 
-analysis == pair
-analysis == high-pair
-analysis == pair-in-hole
-   434:    O: O699 (preflop)
-      :    ==>S: S140 (operator no-change)
-   436:       O: O704 (preflop*bet-raise*excellent-cards)
-best-hand-probability == 0
-bet-size == 10
-bet-timing == middle
-bets-to-call == 1.
-bluff == no
-check-raise-used == no
-num-bets == 1
-pot-odds == 1.5
-stage == preflop
-unacted == 5
-bet.action == raise
-preflop-strength == 2
-debug {pokerIo}: Setting g_betAction to raise @ clock == 159
-=============================================================
-NEW STAGE flop (536349) @ Tue Nov 19 07:37:44 EST 2002
-=============================================================
+   =============================================================
+   NEW GAME 536349 @ Tue Nov 19 07:37:43 EST 2002
+   =============================================================
+   =============================================================
+   NEW STAGE preflop (536349) @ Tue Nov 19 07:37:43 EST 2002
+   =============================================================
 
-analysis == 3-straight-on-board
-analysis == pair
-analysis == high-pair
-analysis == pair-in-hole
-analysis == inside-straight
-   437:    O: O705 (flop)
-      :    ==>S: S141 (operator no-change)
-   439:       O: O714 (flop*call*1-player)
-best-hand-probability == 0.84
-bet-size == 10
-bet-timing == middle
-bets-to-call == 0.
-bluff == no
-check-raise-used == no
-num-bets == 0
-pot-odds == 9999
-stage == flop
-unacted == 2
-bet.action == call
-flop-strength == 6
-flop-strength == 7
-debug {pokerIo}: Setting g_betAction to call @ clock == 160
+   analysis == pair
+   analysis == high-pair
+   analysis == pair-in-hole
+      434:    O: O699 (preflop)
+         :    ==>S: S140 (operator no-change)
+      436:       O: O704 (preflop*bet-raise*excellent-cards)
+   best-hand-probability == 0
+   bet-size == 10
+   bet-timing == middle
+   bets-to-call == 1.
+   bluff == no
+   check-raise-used == no
+   num-bets == 1
+   pot-odds == 1.5
+   stage == preflop
+   unacted == 5
+   bet.action == raise
+   preflop-strength == 2
+   debug {pokerIo}: Setting g_betAction to raise @ clock == 159
+   =============================================================
+   NEW STAGE flop (536349) @ Tue Nov 19 07:37:44 EST 2002
+   =============================================================
 
-   440:       O: O717 (flop*call*1-player)
-best-hand-probability == 0.84
-bet-size == 10
-bet-timing == middle
-bets-to-call == 1.
-bluff == no
-check-raise-used == no
-num-bets == 1
-pot-odds == 6.5
-stage == flop
-unacted == 0
-bet.action == call
-flop-strength == 6
-flop-strength == 7
-debug {pokerIo}: Setting g_betAction to call @ clock == 161
-</pre>
+   analysis == 3-straight-on-board
+   analysis == pair
+   analysis == high-pair
+   analysis == pair-in-hole
+   analysis == inside-straight
+      437:    O: O705 (flop)
+         :    ==>S: S141 (operator no-change)
+      439:       O: O714 (flop*call*1-player)
+   best-hand-probability == 0.84
+   bet-size == 10
+   bet-timing == middle
+   bets-to-call == 0.
+   bluff == no
+   check-raise-used == no
+   num-bets == 0
+   pot-odds == 9999
+   stage == flop
+   unacted == 2
+   bet.action == call
+   flop-strength == 6
+   flop-strength == 7
+   debug {pokerIo}: Setting g_betAction to call @ clock == 160
+
+      440:       O: O717 (flop*call*1-player)
+   best-hand-probability == 0.84
+   bet-size == 10
+   bet-timing == middle
+   bets-to-call == 1.
+   bluff == no
+   check-raise-used == no
+   num-bets == 1
+   pot-odds == 6.5
+   stage == flop
+   unacted == 0
+   bet.action == call
+   flop-strength == 6
+   flop-strength == 7
+   debug {pokerIo}: Setting g_betAction to call @ clock == 161
+
 
 <h4>Soar Productions</h4>
 
