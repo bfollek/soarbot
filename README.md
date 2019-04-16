@@ -1,6 +1,6 @@
 ### SoarBot: A Rule-Based System For Playing Poker
 
-** WARNING! This project is from 2002. Assume that everything's out of date. **
+**WARNING! This project is from 2002. Assume that everything's out of date.**
 
 #### SoarSession
 
