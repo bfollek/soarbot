@@ -1,4 +1,4 @@
-#### Poker Demo
+#### Sample Log Output
 
 Bob Follek
 Thesis I, Fall 2002<br>
