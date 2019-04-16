@@ -22,6 +22,6 @@ Requirements:
     * A network connection
     * Python (for the startup/shutdown scripts)
 
-#### [Demo](pokerdemo.html)
+#### [Demo](pokerdemo.md)
 
 #### [Download the thesis (zipped Word document)](FollekThesis.zip)

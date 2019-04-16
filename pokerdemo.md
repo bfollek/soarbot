@@ -1,15 +1,7 @@
-<html>
-<head>
-<title>Poker Demo</title>
-<meta name="robots" content="noindex,nofollow">
-<link rel=stylesheet href="codeblitz.css" type="text/css">
-</head>
+#### Poker Demo
 
-<body>
-Bob Follek<br>
-<a href="mailto:bfollek@gmail.com">bfollek@gmail.com</a><br>
+Bob Follek
 Thesis I, Fall 2002<br>
-<center><h2>Poker Demo</h2></center><br>
 
 <h4>Poker Log</h4>
 <pre>
@@ -58,12 +50,12 @@ SoarBot03 wins $155 with Two Pair, Tens and Nines
 
 <h4>Soar Log</h4>
 <pre>
-=============================================================
+---
 NEW GAME 536349 @ Tue Nov 19 07:37:43 EST 2002
-=============================================================
-=============================================================
+---
+---
 NEW STAGE preflop (536349) @ Tue Nov 19 07:37:43 EST 2002
-=============================================================
+---
 
 analysis == pair
 analysis == high-pair
@@ -158,7 +150,7 @@ sp  {preflop*propose*bet-raise*excellent-cards
     (&lt;o&gt; ^name preflop*bet-raise*excellent-cards
          ^bet.action raise
          ^score 30)
-}  
+}
 </pre>
 <hr>
 <pre>
@@ -182,6 +174,6 @@ sp  {flop*propose*call*1-player
     (&lt;o&gt; ^name flop*call*1-player
          ^bet.action call
          ^score 20)
-}   
+}
 </pre>
 </body>
