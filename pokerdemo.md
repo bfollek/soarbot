@@ -50,12 +50,9 @@ SoarBot03 wins $155 with Two Pair, Tens and Nines
 
 <h4>Soar Log</h4>
 
-   =============================================================
    NEW GAME 536349 @ Tue Nov 19 07:37:43 EST 2002
-   =============================================================
-   =============================================================
+
    NEW STAGE preflop (536349) @ Tue Nov 19 07:37:43 EST 2002
-   =============================================================
 
    analysis == pair
    analysis == high-pair
@@ -76,9 +73,8 @@ SoarBot03 wins $155 with Two Pair, Tens and Nines
    bet.action == raise
    preflop-strength == 2
    debug {pokerIo}: Setting g_betAction to raise @ clock == 159
-   =============================================================
+
    NEW STAGE flop (536349) @ Tue Nov 19 07:37:44 EST 2002
-   =============================================================
 
    analysis == 3-straight-on-board
    analysis == pair
