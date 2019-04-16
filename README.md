@@ -24,4 +24,4 @@ Requirements:
 
 #### [Demo](pokerdemo.md)
 
-#### [Download the thesis (zipped Word document)](FollekThesis.zip)
+#### [The thesis (zipped Word document)](FollekThesis.zip)
