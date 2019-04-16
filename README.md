@@ -26,4 +26,4 @@ Requirements:
 
 #### [Sample Log Output](pokerdemo.md)
 
-#### [The thesis (zipped Word document)](FollekThesis.zip)
+#### [The master's thesis (zipped Word document)](FollekThesis.zip)
