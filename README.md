@@ -1,5 +1,7 @@
 ### SoarBot: A Rule-Based System For Playing Poker
 
+** WARNING! This project is from 2002. Assume that everything's out of date. **
+
 #### SoarSession
 
 SoarSession.tgz is the Java->Tcl->Soar piece. It is not poker-specific and may be useful in other projects. Installation info in readme.txt.
